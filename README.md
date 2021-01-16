@@ -21,11 +21,45 @@ Project Detail
 	5. การทดสอบ (Testing) และการแก้ไขปัญหา
 
 
-วัตถุประสงค์ของโครงการ (Objective)
+# วัตถุประสงค์ของโครงการ (Objective)
+
+โครงการพัฒนา web-base dApp  ‘ฉกไข่ไดโนเสาร์’ มีวัตถุประสงค์ดังนี้
+
+	 1.2.1 เพื่อฝึกการเขียน application ที่มี system architecture แบบ Three Tier Diagram
+
+	1.2.2 เพื่อฝึกกระบวนในการคิด วิเคราะห์ การออกแบบ และการเลือกใช้เครื่องมือในการ	ทำงานที่เหมาะสมกับโครงการ เช่น การใช้ Use Case Diagram รวมไปถึงการออกแบบ UI (User Interface Design) ให้มีความเรียบง่าย ลดความซับซ้อน 	สะดวกในการใช้งาน
+
+	1.2.3 เพื่อให้เข้าใจพื้นฐานในการใช้ Ethereum, Smart Contracts, HTML และ JavaScript ในการนำมาร่วมกันพัฒนาเป็น dApp
+	
+	1.2.4 เพื่อพัฒนาการเขียน coding ให้เกิดเป็นโครงการที่สามารถใช้งานได้จริง เพิ่มเติมจากที่เรียนในห้องเรียน
+	
+	1.2.5 เพื่อสร้างความน่าสนใจสนุกสนานแก่ผู้ที่สนใจเข้ามาศึกษาโครงการ โดยการนำไดโนเสาร์ ซึ่งเป็นตัวการ์ตูนที่ได้รับความนิยมในทุกๆวัยมาเป็นเครื่องมือในการสร้างความน่าสนใจ
+	
+	
+# การวิเคราะห์ และการออกแบบ (Analysis and Design)
+
+โครงการพัฒนา web-base dApp  ‘ฉกไข่ไดโนเสาร์’  ออกแบบโดยใช้ Use Case Diagram มาวางเป็นพื้นฐานในการออกแบบ โดยใช้รูปแบบ System Architecture แบบ Three Tier Diagram ดังแสดงในภาพที่ 1.1 และ 1.2 ดังนี้
+
+	Three Tier Diagram ประกอบด้วยส่วนประกอบหลัก 3 ส่วนคือ
+	
+	1.3.1 Data Layer (Database)
+	
+	1.3.2 Application Layer (Back-end)
+	
+	1.3.3 Presentation Layer (Front-end)
+
+	Application ที่นำมาใช้ในการสร้าง “DinoSnatch” ประกอบด้วย
+	-Ganache เพื่อสร้าง Ethereum Network
+	-Metamask Wallet เพื่อสร้าง browser เป็นแบบ blockchain browser
+	-โปรแกรมพื้นฐานในการ interface ได้แก่ HTML, CSS และ JS
+	-Smart Contracts และการทดสอบด้วย Solidity  
+	-node & npm
+	-Truffle 
+
+# ขั้นตอนการทำงาน
 
 
-
-## กำหนดค่าสิ่งแวดล้อม
+# กำหนดค่าสิ่งแวดล้อม
 สร้าง Directory สำหรับบันทึก Projectนี้ และ ใช้คำสั่งต่อไปนี้เพื่อสร้างและย้ายเข้าไปยัง Name Directory
 ```
 mkdir Name
