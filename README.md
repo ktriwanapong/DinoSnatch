@@ -471,7 +471,7 @@ $(function() {
 ```
 npm run dev
 ```
-Firefox จะถูกเรียกที่ http://localhost:3000 เพื่อแสดงผลลัพธ์
+Firefox จะถูกเรียกเพื่อแสดงผล
 
 # Result
 
