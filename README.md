@@ -53,11 +53,11 @@ Project Detail
 
 	Three Tier Diagram ประกอบด้วยส่วนประกอบหลัก 3 ส่วนคือ
 	
-	1.2.1 Data Layer (Database)
+	1 Data Layer (Database)
 	
-	1.2.2 Application Layer (Back-end)
+	2 Application Layer (Back-end)
 	
-	1.2.3 Presentation Layer (Front-end)
+	3 Presentation Layer (Front-end)
 
 	Application ที่นำมาใช้ในการสร้าง “DinoSnatch” ประกอบด้วย
 	-Ganache เพื่อสร้าง Ethereum Network
