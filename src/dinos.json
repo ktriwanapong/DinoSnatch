@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Somchai",
+    "picture": "images/ASomchai.jpg",
+    "age": 3,
+    "species": "Dino A",
+    "hometown": "Khonkaen"
+  },
+  {
+    "id": 1,
+    "name": "Boonchoo",
+    "picture": "images/BBoonchoo.jpg",
+    "age": 3,
+    "species": "Dino B",
+    "hometown": "Burirum"
+  },
+  {
+    "id": 2,
+    "name": "Boonsong",
+    "picture": "images/CBoonsong.jpg",
+    "age": 2,
+    "species": "Dino C",
+    "hometown": "Korat"
+  },
+  {
+    "id": 3,
+    "name": "Nadej",
+    "picture": "images/DNadej.jpg",
+    "age": 2,
+    "species": "Dino D",
+    "hometown": "Yasothon"
+  },
+  {
+    "id": 4,
+    "name": "Ether",
+    "picture": "images/EEther.jpg",
+    "age": 2,
+    "species": "Dino E",
+    "hometown": "Loei"
+  },
+  {
+    "id": 5,
+    "name": "Somsri",
+    "picture": "images/FSomsri.jpg",
+    "age": 3,
+    "species": "Dino F",
+    "hometown": "RoiEt"
+  },
+  {
+    "id": 6,
+    "name": "Gucci",
+    "picture": "images/GGucci.jpg",
+    "age": 3,
+    "species": "Dino G",
+    "hometown": "Ubonratchathani"
+  },
+  {
+    "id": 7,
+    "name": "Yaya",
+    "picture": "images/HYaya.jpg",
+    "age": 3,
+    "species": "Dino H",
+    "hometown": "Udonthani"
+  },
+  {
+    "id": 8,
+    "name": "Patcharabha",
+    "picture": "images/IPatcharabha.jpg",
+    "age": 2,
+    "species": "Dino I",
+    "hometown": "Chiangmai"
+  },
+  {
+    "id": 9,
+    "name": "Jamesji",
+    "picture": "images/JJamesji.jpg",
+    "age": 3,
+    "species": "Dino J",
+    "hometown": "Lumpang"
+  },
+  {
+    "id": 10,
+    "name": "Kitty",
+    "picture": "images/KKitty.jpg",
+    "age": 2,
+    "species": "Dino K",
+    "hometown": "Chiangrai"
+  },
+  {
+    "id": 11,
+    "name": "Lala",
+    "picture": "images/LLala.jpg",
+    "age": 3,
+    "species": "Dino L",
+    "hometown": "Payao"
+  },
+  {
+    "id": 12,
+    "name": "Marasri",
+    "picture": "images/MMarasri.jpg",
+    "age": 3,
+    "species": "Dino M",
+    "hometown": "Pisanulok"
+  },
+  {
+    "id": 13,
+    "name": "Nina",
+    "picture": "images/NNina.jpg",
+    "age": 4,
+    "species": "Dino N",
+    "hometown": "Sukothai"
+  },
+  {
+    "id": 14,
+    "name": "Opal",
+    "picture": "images/OOpal.jpg",
+    "age": 2,
+    "species": "Dino O",
+    "hometown": "Prae"
+  },
+  {
+    "id": 15,
+    "name": "Papa",
+    "picture": "images/PPapa.jpg",
+    "age": 2,
+    "species": "Dino P",
+    "hometown": "Tak"
+  }
+]
