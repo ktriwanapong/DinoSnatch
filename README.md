@@ -62,18 +62,18 @@ Project Detail
 # กำหนดค่าสิ่งแวดล้อม
 สร้าง Directory สำหรับบันทึก Projectนี้ และ ใช้คำสั่งต่อไปนี้เพื่อสร้างและย้ายเข้าไปยัง Name Directory
 ```
-mkdir Name
-cd Name
+mkdir dino
+cd dino
 ```
 
 ดาวน์โหลดโครงสร้างของโปรเจ็ค pet-shop ซึ่งมีอยู่ใน Truffle Framework โดยใช้คำสั่งต่อไปนี้
 ```
-truffle unbox pet-shop
+truffle unbox dino
 ```
 
 
 ### 1. Create Smart Contract
-ใช้ Visual Studio Code เพื่อสร้างไฟล์ชื่อ Name.sol ในไดเร็กทอรี contracts โดยมีโค้ดดังนี้
+ใช้ Visual Studio Code เพื่อสร้างไฟล์ชื่อ DinoSnatch.sol ในไดเร็กทอรี contracts โดยมีโค้ดดังนี้
 ```
 code
 ```
