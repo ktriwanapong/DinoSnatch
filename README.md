@@ -116,6 +116,7 @@ module.exports = function(deployer) {
 truffle migrate
 ```
 
+### 3. การสร้างฐานข้อมูลไข่ไดโนเสาร์
 #### 3.1 แก้ไข image
 ให้นำไฟล์ภาพที่ต้องการแสดงผลไปไว้ใน Directory images
 
