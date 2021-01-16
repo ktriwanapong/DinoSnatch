@@ -38,18 +38,11 @@ Project Detail
 	
 # การวิเคราะห์ และการออกแบบ (Analysis and Design)
 
-โครงการพัฒนา web-based dApp  ‘ฉกไข่ไดโนเสาร์’  ออกแบบโดยใช้รูปแบบ System Architecture แบบ Three Tier Diagram ดังแสดงในภาพที่ 1.1 และ 1.2 ดังนี้
-
-
-![image](https://user-images.githubusercontent.com/77496545/104810392-c3af9e00-5826-11eb-92db-7e76e378c392.png)
-
-
-ภาพ 1.1 System Architecture
-
+โครงการพัฒนา web-based dApp  ‘ฉกไข่ไดโนเสาร์’  ออกแบบโดยใช้รูปแบบ System Architecture แบบ Three Tier Diagram ดังแสดงในภาพดังนี้ 
 
 ![image](https://user-images.githubusercontent.com/77496545/104810399-cd390600-5826-11eb-93fd-1bf3b06f66ab.png)
 
-ภาพ 1.2 Three Tier Diagram
+ภาพแสดง Three Tier Diagram
 
 	Three Tier Diagram ประกอบด้วยส่วนประกอบหลัก 3 ส่วนคือ
 	
