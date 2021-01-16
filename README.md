@@ -39,7 +39,7 @@ Project Detail
 	
 # การวิเคราะห์ และการออกแบบ (Analysis and Design)
 
-โครงการพัฒนา web-based dApp  ‘ฉกไข่ไดโนเสาร์’  ออกแบบโดยใช้รูปแบบ System Architecture แบบ Three Tier Diagram ดังแสดงในภาพดังนี้ 
+โครงการพัฒนา web-based dApp  ‘DinoSnatch’  ออกแบบโดยใช้รูปแบบ System Architecture แบบ Three Tier Diagram ดังแสดงในภาพดังนี้ 
 
 ![image](https://user-images.githubusercontent.com/77496545/104810399-cd390600-5826-11eb-93fd-1bf3b06f66ab.png)
 
