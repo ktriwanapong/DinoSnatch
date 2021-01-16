@@ -79,7 +79,7 @@ cd dino
 
 ดาวน์โหลดโครงสร้างของโปรเจ็ค pet-shop ซึ่งมีอยู่ใน Truffle Framework โดยใช้คำสั่งต่อไปนี้
 ```
-truffle unbox dino
+truffle unbox pet-shop
 ```
 
 
