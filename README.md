@@ -113,22 +113,19 @@ module.exports = function(deployer) {
 ```
 เปิดโปรแกรม Ganache โดยการใช้เมาส์ดับเบิลคลิกที่ชื่อไฟล์ จากนั้น Click ที่ Workspace ที่ต้องการใช้งาน
 
+![image](https://user-images.githubusercontent.com/77496545/104819275-02f9e100-585f-11eb-8ee6-85c9a4c8cb0d.png)
 
+![image](https://user-images.githubusercontent.com/77496545/104819279-0db47600-585f-11eb-9d91-0be108ef4e83.png)
 
+ผลลัพธ์ที่ได้เป็นดังรูป โดย Ganache สร้างบัญชีให้ 10 บัญชี แต่ละบัญชีมี 100 ETH โดย default
+
+![image](https://user-images.githubusercontent.com/77496545/104819290-173dde00-585f-11eb-9f1f-6f272698c857.png)
 
 
 จากนั้นทำการ Migrate โดยใช้คำสั่ง 
 ```
 truffle migrate
 ```
-
- 
-
-ผลลัพธ์ที่ได้เป็นดังรูป โดย Ganache สร้างบัญชีให้ 10 บัญชี แต่ละบัญชีมี 100 ETH โดย default
-
-
- 
-
 
 ### 3. การสร้างฐานข้อมูลไข่ไดโนเสาร์
 #### 3.1 แก้ไข image
