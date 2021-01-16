@@ -44,10 +44,12 @@ Project Detail
 ![image](https://user-images.githubusercontent.com/77496545/104810392-c3af9e00-5826-11eb-92db-7e76e378c392.png)
 
 
+ภาพ 1.1 System Architecture
+
 
 ![image](https://user-images.githubusercontent.com/77496545/104810399-cd390600-5826-11eb-93fd-1bf3b06f66ab.png)
 
-
+ภาพ 1.2 Three Tier Diagram
 
 	Three Tier Diagram ประกอบด้วยส่วนประกอบหลัก 3 ส่วนคือ
 	
