@@ -395,8 +395,8 @@ $(function() {
 });
 ```
 
-### 3. แก้ไข Front-end 
-ทำการแก้ไขในส่วนของ UI ให้มีการแสดงผลตามต้องการ
+### 3.  ออกแบบ UI เพื่อใช้เชื่อมต่อกับผู้ใช้
+	ส่วนติดต่อกับผู้ใช้ เป็นดังรูปต่อไปนี้
 
 ![image](https://user-images.githubusercontent.com/77496545/104810404-dd50e580-5826-11eb-881f-6d723a66c3f1.png)
 ```
@@ -471,7 +471,33 @@ $(function() {
 </html>
 ```
 
-### 4.ทำการสั่ง Run
+### ติดตั้ง MetaMask
+
+ติดตั้ง MetaMask ที่บราวเซอร์ Firefox เมื่อเริ่มใช้งาน MetaMask จะได้ดังรูป
+
+
+![image](https://user-images.githubusercontent.com/77496545/104819317-45bbb900-585f-11eb-9cb6-645b4bff8538.png)
+
+Get Started 
+
+![image](https://user-images.githubusercontent.com/77496545/104819326-510ee480-585f-11eb-88b6-8a4cdaf81761.png)
+
+Import Wallet เพื่อเชื่อมต่อ MetaMask เข้ากับ Wallet ของ Ganache
+
+![image](https://user-images.githubusercontent.com/77496545/104819333-5a984c80-585f-11eb-96d6-02d89745bbe5.png)
+
+ทำการก็อปปี้ Seed จาก Ganache นำมาวางลงในช่อง Wallet Seed ตั้งพาสเวิร์ด click ที่ I have read and agree to the Terms of Use แล้วคลิก Import
+
+![image](https://user-images.githubusercontent.com/77496545/104819342-65eb7800-585f-11eb-9fbe-19011415abf2.png)
+
+ทำการย้ายจาก Ethereum Mainnet มาที่ Ganache โดยคลิกที่ Ethereum Mainnet แล้วเลือก Custom RPC
+
+![image](https://user-images.githubusercontent.com/77496545/104819350-70a60d00-585f-11eb-8f3a-2046de10ccb2.png)
+
+ป้อนข้อมูล Network Name (เป็นค่าใดๆ ก็ได้ ในรูปนี้ตั้งชื่อเป็น Ganache) ส่วน New RPC URL ต้องเป็น URL ของ Ganache ซึ่งในที่นี้คือ http://127.0.0.1:7545
+
+
+### 4.Run Program
 
 ```
 npm run dev
