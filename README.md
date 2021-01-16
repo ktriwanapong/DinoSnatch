@@ -38,7 +38,7 @@ Project Detail
 	
 # การวิเคราะห์ และการออกแบบ (Analysis and Design)
 
-โครงการพัฒนา web-based dApp  ‘ฉกไข่ไดโนเสาร์’  ออกแบบโดยใช้ Use Case Diagram มาวางเป็นพื้นฐานในการออกแบบ โดยใช้รูปแบบ System Architecture แบบ Three Tier Diagram ดังแสดงในภาพที่ 1.1 และ 1.2 ดังนี้
+โครงการพัฒนา web-based dApp  ‘ฉกไข่ไดโนเสาร์’  ออกแบบโดยใช้รูปแบบ System Architecture แบบ Three Tier Diagram ดังแสดงในภาพที่ 1.1 และ 1.2 ดังนี้
 
 
 ![image](https://user-images.githubusercontent.com/77496545/104810392-c3af9e00-5826-11eb-92db-7e76e378c392.png)
