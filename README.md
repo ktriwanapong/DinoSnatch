@@ -67,7 +67,7 @@ Project Detail
 
 
 # กำหนดค่าสิ่งแวดล้อม
-สร้าง Directory สำหรับบันทึก Projectนี้ และ ใช้คำสั่งต่อไปนี้เพื่อสร้างและย้ายเข้าไปยัง Name Directory
+สร้าง Directory สำหรับบันทึก Projectนี้ และ ใช้คำสั่งต่อไปนี้เพื่อสร้างและย้ายเข้าไปยัง Dino Directory
 ```
 mkdir dino
 cd dino
